@@ -1,0 +1,3 @@
+# cov2019_data_mining_Nonlinear-Regression
+use nonlinear regression to predict the number of infected cases based on Cov19 Florida data
+Nonlinear methods are applied to fit the trends of daily number and total number of infected cases. The simulation results show: (1) for the trends of daily number of infected cases versus day, both methods used in this project fit the model well while the modified quadratic Michaellis-Menten (MM) method slightly outperforms another method indicated by MSE; (2) for the trends of total number of infected cases versus day, the quadratic MM model works better than Poisson model.
